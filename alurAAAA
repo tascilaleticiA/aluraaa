@@ -1,4 +1,4 @@
 body {
-    color: white;
-    background: black;
+    color: pink;
+    background: purple;
 }
